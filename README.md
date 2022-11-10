@@ -1,2 +1,8 @@
-#  Netflix landing page done using Youtube tutorial from Traversy Media:
-https://www.youtube.com/watch?v=P7t13SGytRk&t=4113s
+#  Netflix Page
+Landing page done using Youtube tutorial from Traversy Media:
+https://youtu.be/P7t13SGytRk
+
+## Tecnologias Utilizadas
+- HTML
+- CSS
+- JavaScript
